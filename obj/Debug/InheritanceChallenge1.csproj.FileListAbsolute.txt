@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\InheritanceChallenge1\InheritanceChallenge1\bin\Debug\InheritanceChallenge1.exe.config
+C:\Users\peema\source\repos\InheritanceChallenge1\InheritanceChallenge1\bin\Debug\InheritanceChallenge1.exe
+C:\Users\peema\source\repos\InheritanceChallenge1\InheritanceChallenge1\bin\Debug\InheritanceChallenge1.pdb
+C:\Users\peema\source\repos\InheritanceChallenge1\InheritanceChallenge1\obj\Debug\InheritanceChallenge1.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\InheritanceChallenge1\InheritanceChallenge1\obj\Debug\InheritanceChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\InheritanceChallenge1\InheritanceChallenge1\obj\Debug\InheritanceChallenge1.exe
+C:\Users\peema\source\repos\InheritanceChallenge1\InheritanceChallenge1\obj\Debug\InheritanceChallenge1.pdb
